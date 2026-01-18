@@ -1,29 +1,30 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/34022841/file/original-07b777e02c236203e56930a3a58faf9f.gif" width="400"/>
+  <a href="https://www.shutterstock.com/shutterstock/videos/3677427937/preview/stock-footage-teamwork-data-analytics-d-animation-profits-analysts-diagram-charts-k-video-motion-graphic.webm" target="_blank">
+    <img src="https://cdn.dribbble.com/userupload/34022841/file/original-07b777e02c236203e56930a3a58faf9f.gif" width="400" alt="Click to Watch Video"/>
+  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm JARVIS</h1>
-<h3 align="center">AI | Python | Data Science Enthusiast | Future ML Engineer</h3>
+<h3 align="center">Python Learner | Future ML & Data Science Enthusiast</h3>
 
 ---
 
 ### 📌 About Me
 - 🔭 Currently **learning Python** to explore **Machine Learning & Data Science**  
-- 🧠 Writing code, experimenting, and turning ideas into small projects to **understand concepts in practice**
-- 📈 Planning to expand knowledge in **ML fundamentals, DSA in Python, and advanced Data Science**
+- 🧠 Writing code, experimenting, and turning ideas into small projects to **understand concepts in practice**  
+- 📈 Planning to expand skills in **ML fundamentals, DSA in Python, and applied Data Science**
 
 ---
 
 ### 🧰 Current Tech Stack
 
 **Languages & Tools:**  
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
-<img align="left" alt="NumPy" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
-<img align="left" alt="Matplotlib" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" />
-<img align="left" alt="Scikit-Learn" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" />
 
-<br clear="both" />
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 ---
 
@@ -31,11 +32,11 @@
 
 | Area | Focus | Logo |
 |------|-------|------|
-| **Machine Learning Fundamentals** | Regression, Classification, Clustering, Supervised & Unsupervised learning | <img src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" width="30px"/> |
-| **DSA in Python** | Algorithms, Data Structures, Problem Solving Challenges | <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-structures/data-structures.png" width="30px"/> |
-| **Data Science** | Data Cleaning, Visualization, Real-world Analysis | <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png" width="30px"/> |
+| **Machine Learning Fundamentals** | Regression, Classification, Clustering, Supervised & Unsupervised learning | ![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=machinelearning&logoColor=white) |
+| **DSA in Python** | Algorithms, Data Structures, Problem Solving Challenges | ![DSA](https://img.shields.io/badge/Data_Structures-0F4B8F?style=for-the-badge&logo=algorithmia&logoColor=white) |
+| **Data Science** | Data Cleaning, Visualization, Real-world Analysis | ![DS](https://img.shields.io/badge/Data_Science-339933?style=for-the-badge&logo=databricks&logoColor=white) |
 
-💡 *Plan: Hands-on projects, Python challenges, and real datasets to make learning fun and practical!*
+💡 *Learning by coding, solving problems, and working on mini projects to turn theory into practice.*
 
 ---
 
