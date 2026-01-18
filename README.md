@@ -34,7 +34,7 @@ I build things with code every day, and I’m on a mission to grow as a develope
 | 🐍 Languages | Python |
 | 📊 Basics | Lists, Dictionaries, Functions |
 | 🚀 Tools | Git, GitHub |
-| 🤖 Interests | AI Automation, Chatbots |
+| 🤖 Interests | Machine Learning, Data Science |
 
 ---
 
