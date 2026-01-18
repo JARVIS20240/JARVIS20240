@@ -1,56 +1,69 @@
-# 👋 Hello, I'm **JARVIS | AI & Python Enthusiast**
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/34022841/file/original-07b777e02c236203e56930a3a58faf9f.gif" width="400"/>
+</p>
 
-Hi there! I'm **JARVIS** — a motivated learner focused on **AI, automation, and practical projects**.  
-I build things with code every day, and I’m on a mission to grow as a developer and contribute to real-world solutions.
-
----
-
-## 🚀 About Me
-
-✨ **Current Focus:** Python programming, OOP fundamentals, automation  
-🤖 **Interests:** AI Automation, Chatbots, Data Projects  
-📈 **Goal:** Get an entry-level AI/GenAI developer role within the next 6–8 months  
-📚 **Learning Path:**  
-- Python → OOP → Automation Toolchains  
-- Git & GitHub workflows  
-- Building real projects every week
+<h1 align="center">Hi 👋, I'm JARVIS</h1>
+<h3 align="center">AI | Python | Data Science Enthusiast | Future ML Engineer</h3>
 
 ---
 
-## 💻 What I’m Working On
-
-🔹 Improving core Python skills (OOP, file I/O, data structures)  
-🔹 Automating everyday tasks with Python and bots  
-🔹 Learning AI/ML fundamentals
-
-> I update this README as I grow — watch this space 👀
+### 📌 About Me
+- 🔭 Currently **learning Python** to explore **Machine Learning & Data Science**  
+- 🧠 Writing code, experimenting, and turning ideas into small projects to **understand concepts in practice**
+- 📈 Planning to expand knowledge in **ML fundamentals, DSA in Python, and advanced Data Science**
 
 ---
 
-## 🛠️ Skills
+### 🧰 Current Tech Stack
 
-| Category | Tools & Languages |
-|----------|------------------|
-| 🐍 Languages | Python |
-| 📊 Basics | Lists, Dictionaries, Functions |
-| 🚀 Tools | Git, GitHub |
-| 🤖 Interests | Machine Learning, Data Science |
+**Languages & Tools:**  
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
+<img align="left" alt="NumPy" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
+<img align="left" alt="Matplotlib" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" />
+<img align="left" alt="Scikit-Learn" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" />
+
+<br clear="both" />
 
 ---
 
-## 🔥 GitHub Stats
+### 🚀 Future Learning Plan
+
+| Area | Focus | Logo |
+|------|-------|------|
+| **Machine Learning Fundamentals** | Regression, Classification, Clustering, Supervised & Unsupervised learning | <img src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" width="30px"/> |
+| **DSA in Python** | Algorithms, Data Structures, Problem Solving Challenges | <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-structures/data-structures.png" width="30px"/> |
+| **Data Science** | Data Cleaning, Visualization, Real-world Analysis | <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png" width="30px"/> |
+
+💡 *Plan: Hands-on projects, Python challenges, and real datasets to make learning fun and practical!*
+
+---
+
+### 📊 GitHub Stats
 
 ![JARVIS’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=JARVIS20240&show_icons=true&theme=dark)
 
 ---
 
-## 📫 Connect With Me
+### 🚧 What I'm Working On
+- Practicing **Python programming** with hands-on projects  
+- Exploring **Data Science workflows** and small analysis experiments  
+- Building **predictive models** using real-world datasets  
 
-- GitHub: https://github.com/JARVIS20240  
-- LinkedIn: *(Add your LinkedIn link)*  
+---
+
+### 📁 Projects
+- 🤖 **AI Chatbot** — Python & NLP experiments  
+- 📊 **Data Science Analysis** — Exploratory Data Projects  
+- 🐍 **Predictive Models** — Basic ML model experiments  
+
+---
+
+### 📫 Connect With Me
+- GitHub: [JARVIS20240](https://github.com/JARVIS20240)  
+- LinkedIn: *(Add your link)*  
 - Email: *(Add your email if you want)*
 
 ---
 
-Thanks for visiting!  
-⭐ If you like my work, consider following 😉
+⭐ If you like my work, feel free to follow and connect!
