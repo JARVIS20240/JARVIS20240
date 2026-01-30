@@ -40,12 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![JARVIS’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=JARVIS20240&show_icons=true&rank_icon=github&hide_border=true)
-
----
-
 ### 🚧 What I'm Working On
 - Practicing **Python programming** with hands-on projects  
 - Exploring **Data Science workflows** and small analysis experiments  
