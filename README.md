@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 
-![JARVIS’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=JARVIS20240&show_icons=true&theme=dark)
+![JARVIS’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=JARVIS20240&show_icons=true&rank_icon=github&hide_border=true)
 
 ---
 
