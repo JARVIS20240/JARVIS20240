@@ -1,4 +1,72 @@
 <p align="center">
+  <a href="https://pixabay.com/videos/download/video-285250_medium.mp4">
+    <img src="https://img.icons8.com/fluency/480/video.png" width="300" alt="Watch Demo Video"/>
+  </a>
+</p>
+
+<h1 align="center">Hi 👋, I'm JARVIS</h1>
+<h3 align="center">Python Developer | Exploring AI, Machine Learning & Data Science</h3>
+
+---
+
+## 📌 About Me
+
+- Learning **Python programming** and exploring different areas of **AI, Machine Learning, and Data Science**  
+- Experimenting with projects to understand how real-world systems work  
+- Interested in building practical tools combining **data processing, automation, and AI models**  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+
+---
+
+## 📁 Projects
+
+### 🔹 Document Question Answering System
+- Built a system to ask questions on **PDF, Excel, and text files**  
+- Implemented:
+  - Document loading  
+  - Text chunking  
+  - Embeddings and retrieval  
+- Explored how AI systems retrieve and generate answers from custom data  
+
+👉 Repo: https://github.com/JARVIS20240/Langchain-Rag_System  
+
+---
+
+### 🔹 Conversational Document System (In Progress)
+
+- Extending the document Q&A system with **conversation memory**  
+- Exploring how systems maintain **context across multiple queries**  
+- Focused on improving response relevance in multi-step interactions  
+
+---
+
+## 📈 Current Focus
+
+- Improving **Python development skills**  
+- Exploring **AI, ML, and data-driven applications**  
+- Building projects to understand real-world workflows  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/JARVIS20240  
+- LinkedIn: *(Add your link)*  
+
+---
+
+<!-- <p align="center">
   <a href="https://www.shutterstock.com/shutterstock/videos/3677427937/preview/stock-footage-teamwork-data-analytics-d-animation-profits-analysts-diagram-charts-k-video-motion-graphic.webm" target="_blank">
     <img src="https://cdn.dribbble.com/userupload/34022841/file/original-07b777e02c236203e56930a3a58faf9f.gif" width="400" alt="Click to Watch Video"/>
   </a>
@@ -61,4 +129,4 @@
 
 ---
 
-⭐ If you like my work, feel free to follow and connect!
+⭐ If you like my work, feel free to follow and connect! -->
