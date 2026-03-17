@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cdn.pixabay.com/video/2025/06/11/285250_large.mp4">
+  <a href="https://www.shutterstock.com/shutterstock/videos/3677427937/preview/stock-footage-teamwork-data-analytics-d-animation-profits-analysts-diagram-charts-k-video-motion-graphic.webm">
     <img src="https://img.icons8.com/fluency/480/video.png" width="300" alt="Watch Demo Video"/>
   </a>
 </p>
@@ -62,7 +62,6 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/JARVIS20240  
-- LinkedIn: *(Add your link)*  
 
 ---
 
