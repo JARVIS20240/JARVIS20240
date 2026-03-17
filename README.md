@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.shutterstock.com/shutterstock/videos/3677427937/preview/stock-footage-teamwork-data-analytics-d-animation-profits-analysts-diagram-charts-k-video-motion-graphic.webm">
-    <img src="https://img.icons8.com/fluency/480/video.png" width="300" alt="Watch Demo Video"/>
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm JARVIS</h1>
 <h3 align="center">Python Developer | Exploring AI, Machine Learning & Data Science</h3>
 
