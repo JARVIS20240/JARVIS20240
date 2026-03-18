@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JARVIS</h1>
-<h3 align="center">Python Developer | Exploring AI, Machine Learning & Data Science</h3>
+<h3 align="center">Pythonista | Exploring AI, Machine Learning & Data Science</h3>
 
 ---
 
